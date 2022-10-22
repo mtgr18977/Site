@@ -37,14 +37,19 @@ export default function Home() {
           </a>
 
           <a
-            href="#"
-            className={styles.card}
+            href="/files/rndl.pdf" className={styles.card}
           >
-            <h2>Ensaios &rarr;</h2>
+            <h2>Redes Neurais e Deep Learning &rarr;</h2>
             <p>
-              Ensaios variados. Escritos principalmente na época de universidade.
+              Documento sobre redes neurais. Minha primeira escrita técnica.
             </p>
           </a>
+
+          <a href="/files/pgpd.pdf" className={styles.card}>
+            <h2>Currículo em PDF &rarr;</h2>
+            <p>Um currículo mais enxuto, pronto pra imprimir ou mandar por email.</p>
+          </a>
+
         </div>
       </main>
     </div>
