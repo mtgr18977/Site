@@ -17,9 +17,10 @@ export default function Home() {
         </h1>
 
         <p>
-          Tech Writer @ <a href="https://www.azion.com">Azion</a> |
+          Tech Writer @ <a href="https://www.azion.com"><b>Azion</b></a> |
           Colorado |
-          Mamífero
+          Mamífero |
+          <a href="http://www.apps.paulogpd.net"> App <b>Techscriptor</b></a>
         </p>
 
         <div className={styles.grid}>
