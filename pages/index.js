@@ -20,7 +20,7 @@ export default function Home() {
           Tech Writer @ <a href="https://www.azion.com"><b>Azion</b></a> |
           Colorado |
           Mamífero |
-          <a href="http://www.apps.paulogpd.net"> App <b>Techscriptor</b></a>
+          <a href="http://www.apps.paulogpd.net"> Contribuição no App <b>Techscriptor</b></a>
         </p>
 
         <div className={styles.grid}>
@@ -57,7 +57,7 @@ export default function Home() {
           </a>
 
           
-          <a href="https://gist.github.com/mtgr18977" className={styles.card}>
+          <a href="public/posts/" className={styles.card}>
             <h2>Gists &rarr;</h2>
             <p>Traduções, quebras de paywall e outras coisas que não coloquei no blog.</p>
           </a>
