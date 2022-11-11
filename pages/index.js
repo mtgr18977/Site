@@ -20,7 +20,7 @@ export default function Home() {
           Tech Writer @ <a href="https://www.azion.com"><b>Azion</b></a> |
           Colorado |
           Mamífero |
-          <a href="http://www.apps.paulogpd.net"> Contribuição no App <b>Techscriptor</b></a>
+          <a href="https://techscriptor.paulogpd.net/"> Contribuição no App <b>Techscriptor</b></a>
         </p>
 
         <div className={styles.grid}>
